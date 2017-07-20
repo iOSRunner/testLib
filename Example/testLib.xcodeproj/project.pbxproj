@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3166738E20572E9B4D80F9BE /* testLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = testLib.podspec; path = ../testLib.podspec; sourceTree = "<group>"; };
+		3166738E20572E9B4D80F9BE /* testLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = testLib.podspec; path = ../testLib.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* testLib_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testLib_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -59,14 +59,14 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		64487E5651132053A3F76F87 /* Pods_testLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66ACAE74D6610F61048C3225 /* Pods-testLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testLib_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-testLib_Tests/Pods-testLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		6E0662CFBE4CDF17E024B116 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6E0662CFBE4CDF17E024B116 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8CCDA6B3F5C77FC1C0E2936C /* Pods-testLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-testLib_Tests/Pods-testLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C5AF5F814720036D65E8D19B /* Pods-testLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testLib_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-testLib_Example/Pods-testLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CA9E91A3F841C20F648DDE1B /* Pods-testLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testLib_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-testLib_Example/Pods-testLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D31A8F60C9CA95DFA3AC5336 /* Pods_testLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E0059C2D57EFEC822264ED5C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E0059C2D57EFEC822264ED5C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -248,7 +248,7 @@
 			attributes = {
 				CLASSPREFIX = TL;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = "ericguo1213@163.com";
+				ORGANIZATIONNAME = iOSRunner;
 				TargetAttributes = {
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
